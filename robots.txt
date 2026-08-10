@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino-s-zhivymi-dilerami.github.io
+Sitemap: https://luchshie-kazino-s-zhivymi-dilerami.github.io/sitemap.xml
